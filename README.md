@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justingauss
-- 👀 I’m interested in html, css, php, js, wordpress, oop
-- 🌱 I’m currently refreshing html, css, php, js, wordpress, oop
-- 💞️ I’m looking to collaborate on html, css, php, js, wordpress, oop
+- 👀 I’m interested in html, css, php, js, wordpress & adobe
+- 🌱 I’m currently refreshing my knowledge of html, css, php, & js.
+- 💞️ I’m looking to collaborate on html, css, php, & js.
 - 📫 How to reach me jusgauss@gmail.com
 
 <!---
